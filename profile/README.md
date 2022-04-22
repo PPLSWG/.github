@@ -5,10 +5,9 @@
 ---
 👩‍💻 [Информация](https://pplswg.notion.site)
 ---
-🔷 [Купить токен PPLSWG на Waves.Exchange](https://waves.exchange/trading/spot/AUcFyrKTt4rJCVuMXv6eMge5d4s2SEY4DRaAhzBvKgKC_USDN)
-(в режиме сообщества)
+🔷 [Купить токен PPLSWG](https://waves.exchange/trading/spot/AUcFyrKTt4rJCVuMXv6eMge5d4s2SEY4DRaAhzBvKgKC_USDN)
 ---
-🍿 [Instagram](https://instagram.com/pp1swg)
-✈️ [Telegram](https://t.me/pplswg)
-⚓️ [OpenSea](https://opensea.io/PPLSWG)
-🧙 [Site](https://pplswg.unicornplatform.page)
+🍿 [Instagram](https://instagram.com/pp1swg) 
+✈️ [Telegram](https://t.me/pplswg) 
+⚓️ [OpenSea](https://opensea.io/PPLSWG) 
+🧙 [Site](https://pplswg.unicornplatform.page) 
