@@ -1,7 +1,7 @@
 ## Привет 👋 
 ### Мы PPLSWG 
 
-![IMG](https://github.com/PPLSWG/.github/blob/main/profile/PPLSWG%20LOGO2.png)
+![IMG](https://github.com/PPLSWG/.github/blob/main/profile/pplswg%20logo%20200x200.png)
 
 🅿️ [Вступить в сообщество](https://form.jotform.com/220344118123341)
 👩‍💻 [Информация](https://pplswg.notion.site)
